@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+networkx
+matplotlib
+tqdm
+faiss-cpu
+# For GPU support, install faiss-gpu instead, e.g., 'faiss-gpu-cu113'
